@@ -6,7 +6,7 @@
 
 package benchmark
 
-import "github.com/gvallee/go_software_build/pkg/app"
+import "github.com/BTMichalowicz/go_software_build/pkg/app"
 
 // Config represents the static OSU configuration (what never changes at runtime)
 type Config struct {
